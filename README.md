@@ -9,7 +9,7 @@ This project uses a Convolutional Neural Network (CNN) to identify crop diseases
 The dataset used in this project is the PlantVillage dataset.
 
 Dataset Link:
-https://www.kaggle.com/datasets/emmarex/plantdisease
+https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
 
 ## Technologies Used
 
